@@ -1,0 +1,27 @@
+{
+  "name": "service-desk",
+  "version": "1.0.0",
+  "description": "aplikasi open tiket untuk jasa service menggunakan node js dan angular js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enggarasmoro/service-desk.git"
+  },
+  "author": "Enggar Asmoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enggarasmoro/service-desk/issues"
+  },
+  "homepage": "https://github.com/enggarasmoro/service-desk#readme",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "angular-route": "^1.7.5",
+    "body-parser": "^1.18.3",
+    "bower": "^1.8.4",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
